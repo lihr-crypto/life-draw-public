@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "生活抽签 · 每日新鲜事",
+  "short_name": "生活抽签",
+  "description": "各抽一张，一起选一个。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#FAF8F4",
+  "icons": [
+    {
+      "src": "https://dashboard.example.com/app-icons/life-192-9204ec0dc7aa.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://dashboard.example.com/app-icons/life-512-2a3c8a6d073a.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
